@@ -1,0 +1,13 @@
+.FaPlay {
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #000;
+  cursor: pointer;
+}
+.FaPlay:active {
+  color: #999;
+}
+.projectName {
+  color: #4976ba;
+}
