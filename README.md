@@ -1,5 +1,5 @@
 # React Test
 
-To run 
+To run project
 1. $ npm install
 2. $ npm start
